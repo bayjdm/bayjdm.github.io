@@ -7,12 +7,12 @@
 
 # Site settings
 react:
-  title: Material Bliss
-  name: Andrew Plaza
+  title: urbayz.com: A amateur programmer
+  name: Bayz
   menu_right_subtitle: Blogger || Computer Scientist
   avatar: http://api.adorable.io/avatar/aplaza@liquidthink.net
   logo: static/img/logo_theme.jpg
-  email: aplaza@liquidthink.net
+  email: admin@urbayz.com
   description: > # this means to ignore newlines until "baseurl:"
     Write an awesome description for your new site here. You can edit this
     line in _config.yml. It will appear in your document head meta (for
@@ -41,7 +41,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://test_domain.com:4000" # the base hostname & protocol for your site
+url: "https://rtd.urbayz.com" # the base hostname & protocol for your site
 permalink: /posts/:title
 
 twitter_username: liquid_think
